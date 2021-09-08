@@ -1,0 +1,41 @@
+.title
+{
+    width:100%;
+    margin: 0px;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.divider
+{
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px grey;
+    float:none;
+}
+
+.tag
+{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+
+.footer
+{
+    position: fixed;
+    color: white;
+    background-color: grey;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    line-height:3;
+    margin-top: 200px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px grey;
+    margin-top: 250px;
+    margin-bottom: 200px;
+}
